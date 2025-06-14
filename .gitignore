@@ -1,0 +1,8 @@
+target/
+.idea/
+.bsp
+.DS_Store
+env/grafana/data
+env/prometheus/data
+temp/
+opt/
